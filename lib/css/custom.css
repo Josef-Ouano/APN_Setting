@@ -1,0 +1,15 @@
+.listBox {
+    min-width: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+  } 
+
+.txtView-log {
+  background: #cecaca;
+  color: #c5bebe;
+}
+
+.txtBox {
+  background: #a5a1a1;
+}
